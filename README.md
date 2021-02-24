@@ -17,12 +17,13 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-
+![output](./static/img/design.png)
 
 ## WIREFRAME:
-
+![output](./static/img/wireframe.png)
 
 ## PROTOTYPE:
-
+![output](./static/img/prototype.png)
 
 ## RESULT:
+A UX has been created for The TITAN COMPANY.
